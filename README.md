@@ -2,8 +2,10 @@
 
 ## Run command
 1. Open JDK 14.0.1
+   
    ```docker run -it nikfarjam/java:14.0.1``` 
 2. Open JDK 11.0.2
+    
     ```docker run -it nikfarjam/java:11.0.2 bash``` 
 
 ## Build commands
